@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Dilawar Khan Lakho",
+      "username": "DKL87",
+      "email": "dilawarkhanlakho@gmail.com",
+      "phone": "03000060404",
+      "id": 1
+    },
+    {
+      "name": "Ameer",
+      "username": "ameer786",
+      "email": "ameer@gmail.com",
+      "phone": "03001234567",
+      "id": 2
+    }
+  ]
+}
